@@ -1,0 +1,32 @@
+Segmentace
+
+    Geografická
+        Region - Globální trh
+    Demografická
+            Věk - 16+
+            Pohlaví - muži a ženy
+            Fáze životního cyklu - Mladí a svobodní, Mladé páry, Full nest I a II
+            Povolání - studenti, zaměstnanci, profesionálové
+        Behaviorální
+            Loajalita - skalní loajální a loajální zákazníci
+            Vyhledávané benefity - efektivita, přesnost, rychlost
+            Osobnost - odhodlanost a abicióznost
+            současný status užívání - neuživatelé, potenciální uživatelé, noví uživatelé, stálí uživatelé, ex-uživatelé
+        Psychografická
+            Sociální třída - nižší třída, pracující třída, střední třída a vyšší třída
+            Životní styl - Mainstreamer, Aspirer, Succeeder, Explorer, Reformer
+
+Reakce firem
+    Malé a střední firmy využívají služeb Microsoftu pro uskutečnění svého podnikatelského záměru. Při pronajmutí infrastruktury se šetří náklady na zřízení a údržbu, infrastruktura je flexibilní, takže její rozšíření je jen otázkou \say{několika kliků myší.} Cloudové služby (Office365) jsou zase přístupny všude, kde funguje počítač s prohlížečem, což v dnešní době je skoro samozřejmostí.
+
+Reakce konkurence
+    Na trhu působí málo společností. Údržba datacenter je velice nákladná. Konkurence (Google, Amazon) se, stejně jako Microsoft, snaží zpřístupnit své nástroje co nejširší business veřejnost, stávající zákazníky si dlouhodobě udržovat nabízet jim nové produkty a zkvalitňovat ty staré, které jsou propojené s ekosystémem jejich značky. Zákazník je, potom, méně náchylný k přechodu ke konkurenci; přechod by byl zdlouhový a nepohodlný.
+
+Reakce zákazníků
+    tbd
+
+Projevy v marketingovém mixu
+    Produkt - Microsoft klade důraz na kvalitu a jednoduchost používání svých produtků. Hlavní prvek změny strategie je proměna výrobku ve službu
+    Cena - Služby se platí periodicky, slevy jsou poskytovány při dlouhodobých závazcích a pro akademické subjekty (některé produkty jsou i zdarma za určitých podmínek)
+    Propagace - Microsoft využívá jak tradičních masových médií, tak i svých již zavedených produktů (hlavně operačního systému Windows, skrze který může nabízet nové služby)
+    Místo - produkt je dostupný přes internet
